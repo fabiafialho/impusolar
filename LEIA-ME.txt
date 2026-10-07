@@ -1,0 +1,9 @@
+IMPULSOLAR — pacote para GitHub
+
+Suba TODOS estes arquivos juntos na raiz do repositório.
+O arquivo principal já está nomeado index.html.
+As imagens estão em WebP e os nomes já estão conectados ao HTML.
+
+Observação:
+Os links para páginas internas (SEO, CRM, IA etc.) já estão preparados,
+mas essas páginas ainda precisam ser criadas para deixarem de retornar 404.
